@@ -1,0 +1,25 @@
+.navbar ul li{
+	margin-right: 30px;
+	padding: 7px;
+}
+.navbar ul li a:hover{
+	color: red;
+}
+#footer h4{
+	font-family: lucida calligraphy;
+	font-weight: bold;
+	color: white;
+}
+#search{
+	width: 202px;
+}
+}
+#social ul li{
+	list-style-type: none;
+}
+#social ul li{
+	display: inline;
+}
+#footer a{
+	color: white;
+}
